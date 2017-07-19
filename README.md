@@ -15,7 +15,7 @@ Get started with the [Watson Visual Recognition](https://console.bluemix.net/cat
 ## Steps
 ### Set up the Watson Visual Recognition Service
 
-[Insert Screenshot]
+<img src="media/VisualRecognition.png">
 
 1. Create an instance of the [Watson Visual Recognition](https://console.bluemix.net/catalog/services/visual-recognition) service.
 
@@ -25,7 +25,7 @@ Get started with the [Watson Visual Recognition](https://console.bluemix.net/cat
 
 4. Expand the `View credentials` and copy the `api_key`.
 
-[Insert Screenshot]
+<img src="media/ViewCredentials.png">
 
 ### Set up your python script locally
 
