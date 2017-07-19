@@ -7,7 +7,7 @@ Get started with the [Watson Visual Recognition](https://console.bluemix.net/cat
 ## Prerequistes
 
 ### Python
-* [Python 3.2.x](https://www.python.org/downloads/)
+* [Python 3.6.x](https://www.python.org/downloads/)
 
 ### Bluemix
 * [Bluemix Account](https://console.bluemix.net/)
